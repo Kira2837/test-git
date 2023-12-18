@@ -5,3 +5,5 @@ hi
 это новое сообщение
 
 small
+
+error fix
