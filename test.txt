@@ -10,3 +10,5 @@ error fix
 we done our work
 
 this is edit in github
+
+i want to test command "pull" 
