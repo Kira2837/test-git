@@ -16,3 +16,10 @@ i want to test command "pull"
 now i want to push it on github
 
 12
+
+Команды:
+1. git --version
+2. git config --global user.name "w3schools-test"
+   git config --global user.email "test@w3schools.com"
+3. git init
+4. 
