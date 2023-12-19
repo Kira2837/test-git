@@ -12,3 +12,5 @@ we done our work
 this is edit in github
 
 i want to test command "pull" 
+
+now i want to push it on github
