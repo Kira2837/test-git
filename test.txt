@@ -22,4 +22,12 @@ now i want to push it on github
 2. git config --global user.name "w3schools-test"
    git config --global user.email "test@w3schools.com"
 3. git init
-4. 
+4. git status
+5. git add --all
+6. git commit -a -m "message"
+7. git log --oneline
+8. git branch new-branch
+9. git branch
+10. git checkout new-branch (-b if not existed create and switch)
+11. git merge new-branch
+12. git branch -d new-branch
